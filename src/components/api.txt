@@ -1,0 +1,6 @@
+3dd51a53eac7b22dacc52653a9ea55df
+
+https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={3dd51a53eac7b22dacc52653a9ea55df}
+hero, does calling the following URL in your browser work for you (replace the X's by your api key)?
+
+http://api.openweathermap.org/data/2.5/weather?q=pune&appid=3dd51a53eac7b22dacc52653a9ea55df
